@@ -1,1 +1,3 @@
-print('hello world')
+x=int(input('algo, perro'))
+
+print(x)
